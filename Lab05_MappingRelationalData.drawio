@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T07:10:26.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="-2D6toemPDclqjN-jelC" version="14.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-09T07:13:44.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="SHq8WJe5P5rKHmTM7Pdm" version="14.4.3" type="github" pages="4">
   <diagram id="cmvr54z6tJa5u3F3zZn5" name="Page-1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YW_miaES-gx7ab2omepX-1" value="Employee" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="230" height="210" as="geometry">
+          <mxGeometry x="40" y="230" width="230" height="210" as="geometry">
             <mxRectangle x="40" y="90" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -37,19 +37,19 @@
           <mxGeometry x="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YW_miaES-gx7ab2omepX-14" value="Unnormalized ERD" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="75" y="50" width="160" height="26" as="geometry" />
+          <mxGeometry x="75" y="190" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YW_miaES-gx7ab2omepX-15" value="EmployeeContact" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="200" height="30" as="geometry" />
+          <mxGeometry x="70" y="350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YW_miaES-gx7ab2omepX-17" value="EmployeeDateOfBirth" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="70" y="240" width="200" height="30" as="geometry" />
+          <mxGeometry x="70" y="380" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YW_miaES-gx7ab2omepX-18" value="EmployeeSalary" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="200" height="30" as="geometry" />
+          <mxGeometry x="70" y="410" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-1" value="Job" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="90" width="230" height="90" as="geometry">
+          <mxGeometry x="300" y="230" width="230" height="90" as="geometry">
             <mxRectangle x="40" y="90" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -72,7 +72,7 @@
           <mxGeometry x="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-14" value="Department" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="90" width="230" height="120" as="geometry">
+          <mxGeometry x="560" y="230" width="230" height="120" as="geometry">
             <mxRectangle x="40" y="90" width="230" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -104,22 +104,28 @@
           <mxGeometry x="30" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-27" value="DepartmentCode" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="590" y="120" width="200" height="30" as="geometry" />
+          <mxGeometry x="590" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-28" value="DepartmentDesc" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="590" y="150" width="200" height="30" as="geometry" />
+          <mxGeometry x="590" y="290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-29" value="DepartmentContact" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="200" height="30" as="geometry" />
+          <mxGeometry x="590" y="320" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-31" value="JobTitle" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="330" y="120" width="200" height="30" as="geometry" />
+          <mxGeometry x="330" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-32" value="JobDesc" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="200" height="30" as="geometry" />
+          <mxGeometry x="330" y="290" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3X-BnIJFYA1iFtTore4-33" value="EmployeeGender" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="70" y="180" width="200" height="30" as="geometry" />
+          <mxGeometry x="70" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0HTCjy0s83bQNfSu5x3-1" value="Rebecca (Bex) Ruvalcaba&lt;br style=&quot;font-size: 18px;&quot;&gt;CIT172&lt;br style=&quot;font-size: 18px;&quot;&gt;Professor Brenda Harlow&lt;br style=&quot;font-size: 18px;&quot;&gt;08 March 2021" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v0HTCjy0s83bQNfSu5x3-2" value="Lab 05: Mapping Relational Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
